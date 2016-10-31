@@ -11,6 +11,7 @@
 #include <Eigen/StdVector> /** For STL container with Eigen types **/
 #include <localization/core/Transform.hpp> /** Envire module which has transformation with uncertainty **/
 #include <localization/Configuration.hpp> /** For the localization framework constant and configuration values **/
+#include <base/Matrix.hpp>
 
 //#define DEAD_RECKON_DEBUG_PRINTS 1
 

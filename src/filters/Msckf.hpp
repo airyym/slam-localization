@@ -31,6 +31,7 @@
 /** Base types **/
 #include <base/Float.hpp>
 #include <base/Eigen.hpp>
+#include <base/Matrix.hpp>
 
 //#define MSCKF_DEBUG_PRINTS 1
 
