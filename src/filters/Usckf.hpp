@@ -21,7 +21,7 @@
 #include <Eigen/SVD> /** Singular Value Decomposition (SVD) of Eigen */
 
 /** UKFOM library **/
-#include <ukfom/lapack/cholesky.hpp>
+//#include <ukfom/lapack/cholesky.hpp>
 #include <ukfom/traits/dof.hpp>
 #include <ukfom/util.hpp>
 
